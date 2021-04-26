@@ -1,0 +1,16 @@
+{
+  "navershopping" : {
+    "label" : {
+      "query": "query",
+      "display": "display",
+      "sort": "sort",
+      "start": "start"
+    },
+    "desc" : {
+      "query": "query for shopping search",
+      "display": "Search starting position up to 1000 possible",
+      "sort": "Sort options: sim (similarity order), date (date order)",
+      "start": "Search starting position up to 1000 possible"
+    }
+  }
+}
